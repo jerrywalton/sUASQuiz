@@ -1,0 +1,636 @@
+{
+    "title": "Unmanned Aircraft System – Small, Part 61 Sample Exam",
+    "short-title": "Part 61 Sample Exam",
+    "passingScore": 70,
+    "questions": [{
+                  "key": "1",
+                  "question": "Which of the following individuals may process an application for a part 107 remote pilot certificate with an sUAS rating?",
+                  "referTo": "(Refer to 14 CFR part 107.63 and 61.56)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Remote Pilot in Command"
+                              }, {
+                              "key": "B",
+                              "text": "Designated Pilot Examiner"
+                              }, {
+                              "key": "C",
+                              "text": "Commercial Balloon Pilot"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "2",
+                  "question": "After receiving a part 107 remote pilot certificate with an sUAS rating, how often must you satisfy recurrent training requirements?",
+                  "referTo": "(Refer to 14 CFR part 107.63 and 107.65, AC 107, small UAS, as amended)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Every 12 months"
+                              }, {
+                              "key": "B",
+                              "text": "Every 24 months"
+                              }, {
+                              "key": "C",
+                              "text": "Every 6 months"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "3",
+                  "question": "Which of the following operations would be regulated by 14 CFR part 107?",
+                  "referTo": "(Refer to 14 CFR parts 101.41 and 107.1)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Flying for enjoyment with family and friends"
+                              }, {
+                              "key": "B",
+                              "text": "Operating your sUAS for an imagery company"
+                              }, {
+                              "key": "C",
+                              "text": "Conducting public operations during a search mission"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "4",
+                  "question": "Unmanned aircraft means an aircraft operated",
+                  "referTo": "(Refer to 14 CFR parts 107.1 and 107.3, AC 107, small UAS, as amended)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Without the possibility of direct human intervention from within or on the aircraft"
+                              }, {
+                              "key": "B",
+                              "text": "For hobby and recreational use when not certificated"
+                              }, {
+                              "key": "C",
+                              "text": "During search and rescue operations other than public"
+                              }],
+                  "correctAnswer": {
+                  "key": "A"
+                  }
+                  }, {
+                  "key": "5",
+                  "question": "According to 14 CFR part 107, an sUAS is an unmanned aircraft system weighing",
+                  "referTo": "(Refer to 14 CFR parts 107.1 and 107.3, AC 107, small UAS, as amended)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "55kg or less"
+                              }, {
+                              "key": "B",
+                              "text": "55lbs or less"
+                              }, {
+                              "key": "C",
+                              "text": "less than 55lbs"
+                              }],
+                  "correctAnswer": {
+                  "key": "C"
+                  }
+                  }, {
+                  "key": "6",
+                  "question": "While operating a small unmanned aircraft system (sUAS) you experience a fly away and several people suffer injuries. Which of the following injuries requires reporting to the FAA?",
+                  "referTo": "(Refer to 14 CFR 107.9 and 107, AC 107, small UAS, as amended)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Scrapes and cuts bandaged on site"
+                              }, {
+                              "key": "B",
+                              "text": "Minor bruises"
+                              }, {
+                              "key": "C",
+                              "text": "An injury requiring an overnight hospital stay"
+                              }],
+                  "correctAnswer": {
+                  "key": "C"
+                  }
+                  }, {
+                  "key": "7",
+                  "question": "Within how many days must an sUAS accident be reported to the FAA?",
+                  "referTo": "(Refer to 14 CFR part 107.9, AC 107, small UAS, as amended)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "30 days"
+                              }, {
+                              "key": "B",
+                              "text": "90 days"
+                              }, {
+                              "key": "C",
+                              "text": "10 days"
+                              }],
+                  "correctAnswer": {
+                  "key": "C"
+                  }
+                  }, {
+                  "key": "8",
+                  "question": "Under what condition should the Remote PIC of a small unmanned aircraft establish a scheduled maintenance protocol?",
+                  "referTo": "(Refer to 14 CFR 107.8)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Small unmanned aircraft systems do not require maintenance"
+                              }, {
+                              "key": "B",
+                              "text": "When the manufacturer does not provide a maintenance schedule"
+                              }, {
+                              "key": "C",
+                              "text": "When the FAA requires you to, following an accident"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "9",
+                  "question": "Scheduled maintenance should be performed in accordance with the",
+                  "referTo": "(Refer to AC 107, small UAS, as amended)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Contractor requirements"
+                              }, {
+                              "key": "B",
+                              "text": "Manufacturer’s suggested procedures"
+                              }, {
+                              "key": "C",
+                              "text": "Stipulations in 14 CFR part 43"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "10",
+                  "question": "Under what condition would a small unmanned aircraft not have to be registered before it is operated in the United States?",
+                  "referTo": "(Refer to 14 CFR 48.15)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "When the aircraft weights less than 0.55lbs on takeoff, including everything that is on-board or attached to the aircraft"
+                              }, {
+                              "key": "B",
+                              "text": "All small unmanned aircraft need to be registered regardless of the weight of the aircraft before, during or after the flight"
+                              }, {
+                              "key": "C",
+                              "text": "When the aircraft has a takeoff weight that is more than 0.55lbs but less than 55lbs, not including fuel and necessary attachments"
+                              }],
+                  "correctAnswer": {
+                  "key": "A"
+                  }
+                  }, {
+                  "key": "11",
+                  "question": "According to 14 CFR part 48, when would a small unmanned aircraft owner not be permitted to register it?",
+                  "referTo": "(Refer to 14 CFR 48.25b)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "All persons are eligible to register a small unmanned aircraft"
+                              }, {
+                              "key": "B",
+                              "text": "If the owner does not have a valid US driver’s license"
+                              }, {
+                              "key": "C",
+                              "text": "If the owner is less than 13 years of age"
+                              }],
+                  "correctAnswer": {
+                  "key": "C"
+                  }
+                  }, {
+                  "key": "12",
+                  "question": "A person without a part 107 remote pilot certificate may operate an sUAS for commercial operations:",
+                  "referTo": "(Refer to AC 107, small UAS, as amended)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Alone, if operating during daylight hours"
+                              }, {
+                              "key": "B",
+                              "text": "Under the direct supervision of a remote PIC"
+                              }, {
+                              "key": "C",
+                              "text": "Only when visual observers participate in the operation"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "13",
+                  "question": "When using a small unmanned aircraft in a commercial operation, who is responsible for informing the participants about emergency procedures?",
+                  "referTo": "(Refer to AC 107, small UAS, as amended)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "The FAA Inspector-in-Charge"
+                              }, {
+                              "key": "B",
+                              "text": "The Remote Pilot in Command"
+                              }, {
+                              "key": "C",
+                              "text": "The lead visual observer"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "14",
+                  "question": "Before each flight, the Remote PIC must ensure that",
+                  "referTo": "(Refer to AC 107, small UAS, as amended)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "ATC has granted clearance"
+                              }, {
+                              "key": "B",
+                              "text": "Objects carried on the sUAS are secure"
+                              }, {
+                              "key": "C",
+                              "text": "The site supervisor has approved the flight"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "15",
+                  "question": "To avoid a possible collision with a manned airplane, you estimate that your small unmanned aircraft climbed to an altitude greater than 600 feet AGL. To whom must you report the deviation?",
+                  "referTo": "(Refer to 14 CFR 107.21b)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "The FAA upon request"
+                              }, {
+                              "key": "B",
+                              "text": "Air Traffic Control"
+                              }, {
+                              "key": "C",
+                              "text": "The National Transportation Safety Board"
+                              }],
+                  "correctAnswer": {
+                  "key": "A"
+                  }
+                  }, {
+                  "key": "16",
+                  "question": "In accordance with 14 CFR part 107, you may operate an sUAS from a moving vehicle when no property is carried for compensation or hire",
+                  "referTo": "(Refer to 14 CFR part 107.25, AC 107, small UAS, as amended)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Over suburban areas"
+                              }, {
+                              "key": "B",
+                              "text": "Over a sparsely populated area"
+                              }, {
+                              "key": "C",
+                              "text": "Over a parade or other social events"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "17",
+                  "question": "According to 14 CFR part 107, what is required to operate a small unmanned aircraft within 30 minutes after official sunset",
+                  "referTo": "(Refer to 14 CFR 107.29b)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Use of a transponder"
+                              }, {
+                              "key": "B",
+                              "text": "Use of lighted anti-collision lights"
+                              }, {
+                              "key": "C",
+                              "text": "Must be operated in a rural area"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "18",
+                  "question": "A person whose sole task is watching the sUAS to report hazards to the rest of the crew is called",
+                  "referTo": "(Refer to 14 CFR part 107.3, AC 107, small UAS, as amended)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Remote PIC"
+                              }, {
+                              "key": "B",
+                              "text": "Visual observer"
+                              }, {
+                              "key": "C",
+                              "text": "Person manipulating the controls"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "19",
+                  "question": "According to 14 CFR part 107, the responsibility to inspect the small unmanned aircraft system (sUAS) to ensure it is in a safe operating condition rests with the",
+                  "referTo": "(Refer to 14 CFR 107.49a)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Visual observer"
+                              }, {
+                              "key": "B",
+                              "text": "Owner of the sUAS"
+                              }, {
+                              "key": "C",
+                              "text": "Remote PIC"
+                              }],
+                  "correctAnswer": {
+                  "key": "C"
+                  }
+                  }, {
+                  "key": "20",
+                  "question": "According to 14 CFR part 107, who is responsible for determining the performance of a small unmanned aircraft",
+                  "referTo": "(Refer to 14 CFR 107.49)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Manufacturer"
+                              }, {
+                              "key": "B",
+                              "text": "Owner or operator"
+                              }, {
+                              "key": "C",
+                              "text": "Remote PIC"
+                              }],
+                  "correctAnswer": {
+                  "key": "C"
+                  }
+                  }, {
+                  "key": "21",
+                  "question": "In accordance with 14 CFR part 107, except when within a 400 foot radius of a structure, at what maximum altitude can you operate sUAS?",
+                  "referTo": "(Refer to 14 CFR part 107.51)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "400 feet AGL"
+                              }, {
+                              "key": "B",
+                              "text": "500 feet AGL"
+                              }, {
+                              "key": "C",
+                              "text": "600 feet AGL"
+                              }],
+                  "correctAnswer": {
+                  "key": "A"
+                  }
+                  }, {
+                  "key": "22",
+                  "question": "Which of the following types of operations are excluded from the requirements in part 107?",
+                  "referTo": "(Refer to 14 CFR parts 101.41 and 107.1)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Model aircraft for hobby use"
+                              }, {
+                              "key": "B",
+                              "text": "Quadcopter capturing aerial imagery for crop monitoring"
+                              }, {
+                              "key": "C",
+                              "text": "UAS used for motion picture filming"
+                              }],
+                  "correctAnswer": {
+                  "key": "A"
+                  }
+                  }, {
+                  "key": "23",
+                  "question": "The FAA may approve your application for a waiver of provisions in part 107 only when it has been determined that the proposed operation",
+                  "referTo": "(Refer to 14 CFR parts 101.41, 107.1, 107.200 and 107.205, AC 107, small UAS, as amended)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Can be safely conducted under the terms of that certificate of waiver"
+                              }, {
+                              "key": "B",
+                              "text": "Involves public aircraft or air carrier operations"
+                              }, {
+                              "key": "C",
+                              "text": "Will be conducted outside of the United States"
+                              }],
+                  "correctAnswer": {
+                  "key": "A"
+                  }
+                  }, {
+                  "key": "24",
+                  "question": "When requesting a waiver, the required documents should be presented to the FAA at least how many days prior to the planned operation?",
+                  "referTo": "(Refer to AC 107, small UAS, as amended)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "10 days"
+                              }, {
+                              "key": "B",
+                              "text": "90 days"
+                              }, {
+                              "key": "C",
+                              "text": "30 days"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "25",
+                  "question": "According to 14 CFR part 107, how may a Remote PIC operate an unmanned aircraft in Class C airspace?",
+                  "referTo": "(Refer to AIM 3-26)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "The Remote PIC must have prior authorization from ATC"
+                              }, {
+                              "key": "B",
+                              "text": "The Remote PIC must monitor the ATC frequency from launch to recovery"
+                              }, {
+                              "key": "C",
+                              "text": "The Remote PIC must contact the ATC facility after launching the unmanned aircraft"
+                              }],
+                  "correctAnswer": {
+                  "key": "A"
+                  }
+                  }, {
+                  "key": "26",
+                  "question": "While operating around buildings, the Remote PIC should be aware of the creation of wind gusts that",
+                  "referTo": "(Refer to FAA-H-8083-25, 11)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Enhance stability and imagery"
+                              }, {
+                              "key": "B",
+                              "text": "Change rapidly in direction and speed causing turbulence"
+                              }, {
+                              "key": "C",
+                              "text": "Increase performance of the aircraft"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "27",
+                  "question": "When operating an unmanned aircraft, the Remote PIC should consider that the load factor on the wings or rotors may be increased anytime when",
+                  "referTo": "(Refer to FAA-H-8083-25, 4-12)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "The gross weight is reduced"
+                              }, {
+                              "key": "B",
+                              "text": "The center of gravity (CG) is shifted rearward to the aft CG limit"
+                              }, {
+                              "key": "C",
+                              "text": "The aircraft is subjected to maneuvers other than straight and level flight"
+                              }],
+                  "correctAnswer": {
+                  "key": "C"
+                  }
+                  }, {
+                  "key": "28",
+                  "question": "A stall occurs when the smooth airflow over the unmanned airplane’s wing is disrupted and the lift degenerates rapidly. This is caused when the wing",
+                  "referTo": "(Refer to FAA-H-8083-3, 4-3)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Exceeds its critical angle of attack"
+                              }, {
+                              "key": "B",
+                              "text": "Exceeds the maximum speed"
+                              }, {
+                              "key": "C",
+                              "text": "Exceeds maximum allowable operating weight"
+                              }],
+                  "correctAnswer": {
+                  "key": "A"
+                  }
+                  }, {
+                  "key": "29",
+                  "question": "What could be a consequence of operating a small unmanned aircraft above its maximum allowable weight?",
+                  "referTo": "(Refer to FAA-H-8083-25, 9-2)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Increased maneuverability"
+                              }, {
+                              "key": "B",
+                              "text": "Faster speed"
+                              }, {
+                              "key": "C",
+                              "text": "Shorter endurance"
+                              }],
+                  "correctAnswer": {
+                  "key": "C"
+                  }
+                  }, {
+                  "key": "30",
+                  "question": "To ensure that the unmanned aircraft center of gravity (CG) limits are not exceeded, follow the aircraft loading instructions specified in the",
+                  "referTo": "(Refer to FAA-H-8083-1, 4-4-5)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Pilots operating handbook or UAS Flight Manual"
+                              }, {
+                              "key": "B",
+                              "text": "Aircraft weight and balance handbook"
+                              }, {
+                              "key": "C",
+                              "text": "Aeronautical Information Manual (AIM)"
+                              }],
+                  "correctAnswer": {
+                  "key": "A"
+                  }
+                  }, {
+                  "key": "31",
+                  "question": "How would high density altitude affect the performance of a small unmanned aircraft?",
+                  "referTo": "(Refer to FAA-H-8083-25, 10)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "No change in performance"
+                              }, {
+                              "key": "B",
+                              "text": "Decreased performance"
+                              }, {
+                              "key": "C",
+                              "text": "Increased performance"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "32",
+                  "question": "Damaged lithium batteries can cause",
+                  "referTo": "(Refer to SAFO 10017)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "A change in aircraft center of gravity"
+                              }, {
+                              "key": "B",
+                              "text": "An inflight fire"
+                              }, {
+                              "key": "C",
+                              "text": "Increased endurance"
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  }
+                  }, {
+                  "key": "33",
+                  "question": "When adapting crew resource management (CRM) concepts to the operation of a small unmanned aircraft, CRM must be integrated into:",
+                  "referTo": "(Refer to FAA-H-8083-25, 17-2)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "The flight portion only"
+                              }, {
+                              "key": "B",
+                              "text": "The communications only"
+                              }, {
+                              "key": "C",
+                              "text": "All phases of the operation"
+                              }],
+                  "correctAnswer": {
+                  "key": "C"
+                  }
+                  }, {
+                  "key": "34",
+                  "question": "The effective use of all available resources – human, hardware, and information – prior to and during flight to ensure the successful outcome of the operation is called",
+                  "referTo": "(Refer to AC 107, small UAS, as amended)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Crew Resource Management"
+                              }, {
+                              "key": "B",
+                              "text": "Risk Management"
+                              }, {
+                              "key": "C",
+                              "text": "Safety Management System"
+                              }],
+                  "correctAnswer": {
+                  "key": "A"
+                  }
+                  }, {
+                  "key": "35",
+                  "question": "You have been hired as a Remote PIC by a local TV news station to film breaking news with a small unmanned aircraft. You expressed a safety concern and the station manager has instructed you to \"fly first, ask questions later.\" What type of hazardous attitude does this attitude represent?",
+                  "referTo": "(Refer to FAA-H-8083-25, 17-4)",
+                  "referToPage": 50,
+                  "answers": [{
+                              "key": "A",
+                              "text": "Invulnerability"
+                              }, {
+                              "key": "B",
+                              "text": "Machoism"
+                              }, {
+                              "key": "C",
+                              "text": "Impulsivity"
+                              }],
+                  "correctAnswer": {
+                  "key": "C"
+                  }
+                  }]
+}

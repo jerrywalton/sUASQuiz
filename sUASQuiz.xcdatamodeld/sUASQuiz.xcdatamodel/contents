@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="16B2555" minimumToolsVersion="Xcode 7.3" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="AskedQuestion" representedClassName=".AskedQuestion" syncable="YES" codeGenerationType="class">
+        <attribute name="questionKey" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="askedQuestionToQuiz" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Quiz" inverseName="quizToAskedQuestion" inverseEntity="Quiz" syncable="YES"/>
+    </entity>
+    <entity name="IncorrectAnswer" representedClassName=".IncorrectAnswer" syncable="YES" codeGenerationType="class">
+        <attribute name="answerKey" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="questionKey" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="incorrectAnswerToQuiz" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Quiz" inverseName="quizToIncorrectAnswer" inverseEntity="Quiz" syncable="YES"/>
+    </entity>
+    <entity name="Quiz" representedClassName=".Quiz" syncable="YES" codeGenerationType="class">
+        <attribute name="complete" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="correctAnswers" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="filename" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="score" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalQuestions" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <relationship name="quizToAskedQuestion" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="AskedQuestion" inverseName="askedQuestionToQuiz" inverseEntity="AskedQuestion" syncable="YES"/>
+        <relationship name="quizToIncorrectAnswer" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="IncorrectAnswer" inverseName="incorrectAnswerToQuiz" inverseEntity="IncorrectAnswer" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="IncorrectAnswer" positionX="-54" positionY="27" width="128" height="90"/>
+        <element name="Quiz" positionX="-63" positionY="-18" width="128" height="180"/>
+        <element name="AskedQuestion" positionX="-54" positionY="45" width="128" height="75"/>
+    </elements>
+</model>

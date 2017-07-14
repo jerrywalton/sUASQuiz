@@ -1,0 +1,64 @@
+{
+    "title": "Unmanned Aircraft System – Small Sample Exam with ACS Codes",
+    "short-title": "Demo Exam",
+    "passingScore" : 70,
+    "questions": [{
+                  "key": "1",
+                  "referTo": "(Refer to FAA-CT-8080-2G, Figure 21.)",
+                  "referToPage" : 21,
+                  "question": "What airport is located approximately 47 (degrees) 40 (minutes) N latitude and 101 (degrees) 26 (minutes) W longitude?",
+                  "answers": [{
+                              "key": "A",
+                              "text": "Mercer County Regional Airport."
+                              }, {
+                              "key": "B",
+                              "text": "Semshenko Airport."
+                              }, {
+                              "key": "C",
+                              "text": "Garrison Airport."
+                              }],
+                  "correctAnswer": {
+                  "key": "C"
+                  },
+                  "acsCodes": "PLT064 / UA.V.B.K6a Sources for airport data: Aeronautical charts."
+                  }, {
+                  "key": "2",
+                  "referTo": "(Refer to FAA-CT-8080-2G, Figure 26.)",
+                  "referToPage" : 26,
+                  "question": "What does the line of latitude at area 4 measure?",
+                  "answers": [{
+                              "key": "A",
+                              "text": "The degrees of latitude east and west of the Prime Meridian."
+                              }, {
+                              "key": "B",
+                              "text": "The degrees of latitude north and south from the equator."
+                              }, {
+                              "key": "C",
+                              "text": "The degrees of latitude east and west of the line that passes through Greenwich, England."
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  },
+                  "acsCodes": "PLT064 / UA.V.B.K6a Sources for airport data: Aeronautical charts."
+                  }, {
+                  "key": "3",
+                  "referTo": "(Refer to FAA-CT-8080-2G, Figure 23, area 3.)",
+                  "referToPage" : 23,
+                  "question": "What is the floor of the Savannah Class C airspace at the shelf area (outer circle)?",
+                  "answers": [{
+                              "key": "A",
+                              "text": "1,300 feet AGL."
+                              }, {
+                              "key": "B",
+                              "text": "1,300 feet MSL."
+                              }, {
+                              "key": "C",
+                              "text": " 1,700 feet MSL."
+                              }],
+                  "correctAnswer": {
+                  "key": "B"
+                  },
+                  "acsCodes": "PLT040 / UA.II.A.K1b General airspace: Class C controlled airspace."
+                  }
+                  ]
+}
